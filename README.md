@@ -1,12 +1,13 @@
-# 🚀 3D Animated Portfolio - Frontend Showcase
+# 🚀 3D Animated Portfolio - Sajja Sasi
 
-A visually immersive and interactive **personal portfolio website frontend**, designed to showcase projects and skills through a dynamic 3D experience. This project leverages advanced animation libraries to create an engaging user journey.
+A visually immersive and interactive **personal portfolio website**, designed to showcase professional experience, technical expertise, and key achievements as a Software Engineer III. This project leverages advanced animation libraries to create an engaging user journey showcasing cloud-native solutions and enterprise architecture work.
 
 ---
 
 ## 🔗 Links
-- 🌐 **Live Demo:** [your-live-demo-url.com](https://yash-chauhan.vercel.app)]
-- 👨‍💻 **Author's Portfolio:** [yash-chauhan.vercel.app](https://yash-chauhan.vercel.app )
+- 🌐 **Live Demo:** [sasisathya.dev](https://sasisathya.dev)
+- 👨‍💻 **GitHub:** [@sasisathya](https://github.com/sasisathya)
+- 💼 **LinkedIn:** [Sasi Sajja](https://www.linkedin.com/in/sasi-sajja)
 
 ---
 
@@ -39,8 +40,19 @@ Please note that the 3D models used in this project were **purchased from a thir
 ---
 
 ## 👨‍💻 Author
-**Yash Chauhan**
-- GitHub: [@yashchauhan008](https://github.com/Yashchauhan008 )
-- LinkedIn: [yashchauhan](https://www.linkedin.com/in/yashchauhan008 )
+**Sajja Sasi**
+- **Title:** Software Engineer III | 8+ Years of Experience
+- **Location:** Bangalore, Karnataka, India
+- **Email:** sasisathya.sajja@gmail.com
+- **GitHub:** [@sasisathya](https://github.com/sasisathya)
+- **LinkedIn:** [sasi-sajja](https://www.linkedin.com/in/sasi-sajja)
+
+### Professional Expertise
+- Cloud-Native Architecture & Microservices
+- Java Spring Boot & Node.js Backend Development
+- React.js & Angular Frontend Development
+- AWS & Google Cloud Platform (GCP) Infrastructure
+- Docker, Kubernetes & DevOps Automation
+- System Design & Performance Optimization
 
 ---
