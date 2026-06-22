@@ -1,0 +1,12 @@
+{
+  "name": "interactive-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "http-server",
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
