@@ -38607,10 +38607,11 @@ class Ln {
   getY(e) {
     let t = 0;
     t += e.offsetTop;
+    if (!e.offsetParent) return 0;
     let n = e.offsetParent.id,
       i = e;
     for (; n != "scroll-container"; )
-      (i = i.offsetParent), (n = i.offsetParent.id), (t += i.offsetTop);
+      (i = i.offsetParent), (n = i && i.offsetParent ? i.offsetParent.id : null), (t += i.offsetTop);
     return t - e.scrollTop + e.clientTop - window.innerHeight;
   }
 }
