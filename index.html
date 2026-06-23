@@ -522,27 +522,27 @@
 
             <div id="contact-container">
                 <!--Form Container-->
-                <div id="contact-form-container" class="column contact-container">
+                <form id="contact-form-container" class="column contact-container" action="https://formspree.io/f/xvgzqbzq" method="POST">
                     <div id="contact-name-input" class="input-container column">
                         <div class="row">
                             <label for="contact-name-input-field">Name :</label>
                             <span class="error-label hide">Please enter your name.</span>
                         </div>
-                        <input id="contact-name-input-field" tabindex="-1">
+                        <input id="contact-name-input-field" name="name" type="text" tabindex="-1" required>
                     </div>
                     <div id="contact-email-input" class="input-container column">
                         <div class="row">
                             <label for="contact-email-input-field">Email :</label>
                             <span class="error-label hide">Please enter a valid email address.</span>
                         </div>
-                        <input id="contact-email-input-field" type="email" tabindex="-1">
+                        <input id="contact-email-input-field" name="email" type="email" tabindex="-1" required>
                     </div>
                     <div id="contact-message-input" class="input-container column">
                         <div class="row">
                             <label for="contact-message-input-field">Message :</label>
                             <span class="error-label hide">Please enter your message.</span>
                         </div>
-                        <textarea id="contact-message-input-field" tabindex="-1"></textarea>
+                        <textarea id="contact-message-input-field" name="message" tabindex="-1" required></textarea>
                     </div>
                     <div class="row" id="contact-button-container">
                         <!--Menu Social Link-->
@@ -560,14 +560,14 @@
                             <a tabindex="-1" target="_blank" href="https://www.linkedin.com/in/sasi-sajja">
                                 <i class="fab fa-linkedin social-icon"></i>
                             </a>
-                            
+
                             <!--Submit Button-->
-                            <div id="contact-submit-button" class="small-button orange-hover">
+                            <button id="contact-submit-button" type="submit" class="small-button orange-hover">
                                 Submit
-                            </div>
+                            </button>
                         </div>
                     </div>
-                </div>
+                </form>
 
                 <!--Loading Container-->
                 <div id="contact-loading-container" class="center contact-container hide">
