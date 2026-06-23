@@ -7,7 +7,8 @@
       "Bash(npm install:*)",
       "Bash(git push:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$(cat <<''EOF''\nRemove all references to other people and finalize Sajja Sasi branding\n\n- Updated OG meta tags with sasisathya.dev domain\n- Updated Twitter meta tags with correct portfolio URL\n- Updated README.md with Sajja Sasi''s professional details\n- Removed Yash Chauhan and David Heckhoff references\n- Added comprehensive author information with expertise\n- Finalized all branding and contact information\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+      "Bash(git commit -m \"$(cat <<''EOF''\nRemove all references to other people and finalize Sajja Sasi branding\n\n- Updated OG meta tags with sasisathya.dev domain\n- Updated Twitter meta tags with correct portfolio URL\n- Updated README.md with Sajja Sasi''s professional details\n- Removed Yash Chauhan and David Heckhoff references\n- Added comprehensive author information with expertise\n- Finalized all branding and contact information\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
