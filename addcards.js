@@ -1,12 +1,12 @@
 const oM = [
     {
       id: 0,
-      name: "Workforce Management Platform",
+      name: "UKGTALK - Workforce Management Platform",
       description: "Enterprise-grade cloud-native microservices leveraging Java Spring Boot and Node.js on GCP with Docker/Kubernetes orchestration, achieving 99.9% uptime for Fortune 500 clientele",
       image: "images/projects/projecthub.png",
       tags: ["java", "nodejs", "gcp", "kubernetes"],
       liveview: "https://www.ultimatekronos.com/",
-      alt: "Workforce Management Platform",
+      alt: "UKGTALK Workforce Management Platform",
     },
     {
       id: 1,
